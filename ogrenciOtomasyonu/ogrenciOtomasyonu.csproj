@@ -1,0 +1,432 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{FC2B90C1-5275-487F-A97C-7B4D2B6CF7CE}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ogrenciOtomasyonu</RootNamespace>
+    <AssemblyName>ogrenciOtomasyonu</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="nunit.core">
+      <HintPath>..\packages\NUnitTestAdapter.2.0.0\lib\nunit.core.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="nunit.core.interfaces">
+      <HintPath>..\packages\NUnitTestAdapter.2.0.0\lib\nunit.core.interfaces.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="nunit.framework">
+      <HintPath>..\packages\NUnit.3.5.0\lib\net45\nunit.framework.dll</HintPath>
+    </Reference>
+    <Reference Include="nunit.util">
+      <HintPath>..\packages\NUnitTestAdapter.2.0.0\lib\nunit.util.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="NUnit.VisualStudio.TestAdapter">
+      <HintPath>..\packages\NUnitTestAdapter.2.0.0\lib\NUnit.VisualStudio.TestAdapter.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="frmAkaDevamsizlikGirme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAkaDevamsizlikGirme.Designer.cs">
+      <DependentUpon>frmAkaDevamsizlikGirme.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAkaMesajGecmisi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAkaMesajGecmisi.Designer.cs">
+      <DependentUpon>frmAkaMesajGecmisi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAkaMesajGonder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAkaMesajGonder.Designer.cs">
+      <DependentUpon>frmAkaMesajGonder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAkaNotFinalGir.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAkaNotFinalGir.Designer.cs">
+      <DependentUpon>frmAkaNotFinalGir.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAkaNotGirme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAkaNotGirme.Designer.cs">
+      <DependentUpon>frmAkaNotGirme.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAkaNotVizeGir.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAkaNotVizeGir.Designer.cs">
+      <DependentUpon>frmAkaNotVizeGir.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAkaSistemEkrani.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAkaSistemEkrani.Designer.cs">
+      <DependentUpon>frmAkaSistemEkrani.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAkaSistemGiris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAkaSistemGiris.Designer.cs">
+      <DependentUpon>frmAkaSistemGiris.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmBilgiAkaDuzenle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBilgiAkaDuzenle.Designer.cs">
+      <DependentUpon>frmBilgiAkaDuzenle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmBilgiAkaEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBilgiAkaEkle.Designer.cs">
+      <DependentUpon>frmBilgiAkaEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmBilgiAyarlar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBilgiAyarlar.Designer.cs">
+      <DependentUpon>frmBilgiAyarlar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmBilgiBolumDuzenle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBilgiBolumDuzenle.Designer.cs">
+      <DependentUpon>frmBilgiBolumDuzenle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmBilgiBolumEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBilgiBolumEkle.Designer.cs">
+      <DependentUpon>frmBilgiBolumEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmBilgiDersDuzenle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBilgiDersDuzenle.Designer.cs">
+      <DependentUpon>frmBilgiDersDuzenle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmBilgiDersEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBilgiDersEkle.Designer.cs">
+      <DependentUpon>frmBilgiDersEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmBilgiHarfSisDuzenle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBilgiHarfSisDuzenle.Designer.cs">
+      <DependentUpon>frmBilgiHarfSisDuzenle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmBilgiHarfSisEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBilgiHarfSisEkle.Designer.cs">
+      <DependentUpon>frmBilgiHarfSisEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmBilgiPersonelDuzenle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBilgiPersonelDuzenle.Designer.cs">
+      <DependentUpon>frmBilgiPersonelDuzenle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmBilgiPersonelEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBilgiPersonelEkle.Designer.cs">
+      <DependentUpon>frmBilgiPersonelEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMain.Designer.cs">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmBilgiGiris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBilgiGiris.Designer.cs">
+      <DependentUpon>frmBilgiGiris.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmBilgiIslem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBilgiIslem.Designer.cs">
+      <DependentUpon>frmBilgiIslem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmBilgiOgrDuzenle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBilgiOgrDuzenle.Designer.cs">
+      <DependentUpon>frmBilgiOgrDuzenle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmBilgiOgrEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBilgiOgrEkle.Designer.cs">
+      <DependentUpon>frmBilgiOgrEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmOgrMesajGecmisi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmOgrMesajGecmisi.Designer.cs">
+      <DependentUpon>frmOgrMesajGecmisi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmOgrMesajGonder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmOgrMesajGonder.Designer.cs">
+      <DependentUpon>frmOgrMesajGonder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmOgrSistem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmOgrSistem.Designer.cs">
+      <DependentUpon>frmOgrSistem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmOgrSistemEkrani.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmOgrSistemEkrani.Designer.cs">
+      <DependentUpon>frmOgrSistemEkrani.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GnoHesapla.cs" />
+    <Compile Include="Md5Sifrele.cs" />
+    <Compile Include="OrtalamaHesapla.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SqlBaglantisi.cs" />
+    <Compile Include="SqlOtomasyonDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SqlOtomasyonDataSet.xsd</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="frmAkaDevamsizlikGirme.resx">
+      <DependentUpon>frmAkaDevamsizlikGirme.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAkaMesajGecmisi.resx">
+      <DependentUpon>frmAkaMesajGecmisi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAkaMesajGonder.resx">
+      <DependentUpon>frmAkaMesajGonder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAkaNotFinalGir.resx">
+      <DependentUpon>frmAkaNotFinalGir.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAkaNotGirme.resx">
+      <DependentUpon>frmAkaNotGirme.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAkaNotVizeGir.resx">
+      <DependentUpon>frmAkaNotVizeGir.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAkaSistemEkrani.resx">
+      <DependentUpon>frmAkaSistemEkrani.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAkaSistemGiris.resx">
+      <DependentUpon>frmAkaSistemGiris.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBilgiAkaDuzenle.resx">
+      <DependentUpon>frmBilgiAkaDuzenle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBilgiAkaEkle.resx">
+      <DependentUpon>frmBilgiAkaEkle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBilgiAyarlar.resx">
+      <DependentUpon>frmBilgiAyarlar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBilgiBolumDuzenle.resx">
+      <DependentUpon>frmBilgiBolumDuzenle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBilgiBolumEkle.resx">
+      <DependentUpon>frmBilgiBolumEkle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBilgiDersDuzenle.resx">
+      <DependentUpon>frmBilgiDersDuzenle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBilgiDersEkle.resx">
+      <DependentUpon>frmBilgiDersEkle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBilgiHarfSisDuzenle.resx">
+      <DependentUpon>frmBilgiHarfSisDuzenle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBilgiHarfSisEkle.resx">
+      <DependentUpon>frmBilgiHarfSisEkle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBilgiPersonelDuzenle.resx">
+      <DependentUpon>frmBilgiPersonelDuzenle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBilgiPersonelEkle.resx">
+      <DependentUpon>frmBilgiPersonelEkle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMain.resx">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBilgiGiris.resx">
+      <DependentUpon>frmBilgiGiris.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBilgiIslem.resx">
+      <DependentUpon>frmBilgiIslem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBilgiOgrDuzenle.resx">
+      <DependentUpon>frmBilgiOgrDuzenle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBilgiOgrEkle.resx">
+      <DependentUpon>frmBilgiOgrEkle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmOgrMesajGecmisi.resx">
+      <DependentUpon>frmOgrMesajGecmisi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmOgrMesajGonder.resx">
+      <DependentUpon>frmOgrMesajGonder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmOgrSistem.resx">
+      <DependentUpon>frmOgrSistem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmOgrSistemEkrani.resx">
+      <DependentUpon>frmOgrSistemEkrani.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="SqlOtomasyonDataSet.xsc">
+      <DependentUpon>SqlOtomasyonDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="SqlOtomasyonDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>SqlOtomasyonDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="SqlOtomasyonDataSet.xss">
+      <DependentUpon>SqlOtomasyonDataSet.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\bilgi2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\akademisyen.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\ogrenci.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\refresh.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\refresh-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\refresh.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="SqlOtomasyon.mdf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlOtomasyon_log.ldf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <DependentUpon>SqlOtomasyon.mdf</DependentUpon>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

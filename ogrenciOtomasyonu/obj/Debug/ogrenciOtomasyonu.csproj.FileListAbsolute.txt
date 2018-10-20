@@ -1,0 +1,188 @@
+c:\users\uzman\documents\visual studio 2013\Projects\ogrenciOtomasyonu\ogrenciOtomasyonu\bin\Debug\ogrenciOtomasyonu.exe.config
+c:\users\uzman\documents\visual studio 2013\Projects\ogrenciOtomasyonu\ogrenciOtomasyonu\bin\Debug\ogrenciOtomasyonu.exe
+c:\users\uzman\documents\visual studio 2013\Projects\ogrenciOtomasyonu\ogrenciOtomasyonu\bin\Debug\ogrenciOtomasyonu.pdb
+c:\users\uzman\documents\visual studio 2013\Projects\ogrenciOtomasyonu\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.csprojResolveAssemblyReference.cache
+c:\users\uzman\documents\visual studio 2013\Projects\ogrenciOtomasyonu\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.Properties.Resources.resources
+c:\users\uzman\documents\visual studio 2013\Projects\ogrenciOtomasyonu\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.csproj.GenerateResource.Cache
+c:\users\uzman\documents\visual studio 2013\Projects\ogrenciOtomasyonu\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.exe
+c:\users\uzman\documents\visual studio 2013\Projects\ogrenciOtomasyonu\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.pdb
+c:\users\uzman\documents\visual studio 2013\Projects\ogrenciOtomasyonu\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.frmMain.resources
+c:\users\uzman\documents\visual studio 2013\Projects\ogrenciOtomasyonu\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.frmBilgiGiris.resources
+C:\Users\uzMan\documents\visual studio 2013\Projects\ogrenciOtomasyonu\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.frmBilgiIslem.resources
+C:\Users\uzMan\documents\visual studio 2013\Projects\ogrenciOtomasyonu\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.frmBilgiAkaEkle.resources
+C:\Users\uzMan\documents\visual studio 2013\Projects\ogrenciOtomasyonu\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.frmBilgiAyarlar.resources
+C:\Users\uzMan\documents\visual studio 2013\Projects\ogrenciOtomasyonu\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.frmBilgiOgrDuzenle.resources
+C:\Users\uzMan\documents\visual studio 2013\Projects\ogrenciOtomasyonu\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.frmBilgiOgrEkle.resources
+C:\Users\uzMan\documents\visual studio 2013\Projects\ogrenciOtomasyonu\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.frmBilgiAkaDuzenle.resources
+C:\Users\uzMan\documents\visual studio 2013\Projects\ogrenciOtomasyonu\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.frmBilgiHarfSisDuzenle.resources
+C:\Users\uzMan\documents\visual studio 2013\Projects\ogrenciOtomasyonu\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.frmBilgiHarfSisEkle.resources
+C:\Users\uzMan\documents\visual studio 2013\Projects\ogrenciOtomasyonu\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.frmBilgiPersonelDuzenle.resources
+C:\Users\uzMan\documents\visual studio 2013\Projects\ogrenciOtomasyonu\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.frmBilgiPersonelEkle.resources
+C:\Users\uzMan\documents\visual studio 2013\Projects\ogrenciOtomasyonu\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.frmBilgiBolumDuzenle.resources
+C:\Users\uzMan\documents\visual studio 2013\Projects\ogrenciOtomasyonu\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.frmBilgiBolumEkle.resources
+C:\Users\uzMan\documents\visual studio 2013\Projects\ogrenciOtomasyonu\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.frmBilgiDersDuzenle.resources
+C:\Users\uzMan\documents\visual studio 2013\Projects\ogrenciOtomasyonu\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.frmBilgiDersEkle.resources
+C:\Users\uzMan\documents\visual studio 2013\Projects\ogrenciOtomasyonu\ogrenciOtomasyonu\bin\Debug\SqlOtomasyon.mdf
+C:\Users\uzMan\documents\visual studio 2013\Projects\ogrenciOtomasyonu\ogrenciOtomasyonu\bin\Debug\SqlOtomasyon_log.ldf
+C:\ogrenciOtomasyonu\ogrenciOtomasyonu\bin\Debug\ogrenciOtomasyonu.exe.config
+C:\ogrenciOtomasyonu\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.exe
+C:\ogrenciOtomasyonu\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.pdb
+C:\ogrenciOtomasyonu\ogrenciOtomasyonu\bin\Debug\SqlOtomasyon.mdf
+C:\ogrenciOtomasyonu\ogrenciOtomasyonu\bin\Debug\SqlOtomasyon_log.ldf
+C:\ogrenciOtomasyonu\ogrenciOtomasyonu\bin\Debug\ogrenciOtomasyonu.exe
+C:\ogrenciOtomasyonu\ogrenciOtomasyonu\bin\Debug\ogrenciOtomasyonu.pdb
+C:\ogrenciOtomasyonu\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.csprojResolveAssemblyReference.cache
+C:\ogrenciOtomasyonu\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.frmBilgiAkaDuzenle.resources
+C:\ogrenciOtomasyonu\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.frmBilgiAkaEkle.resources
+C:\ogrenciOtomasyonu\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.frmBilgiAyarlar.resources
+C:\ogrenciOtomasyonu\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.frmBilgiBolumDuzenle.resources
+C:\ogrenciOtomasyonu\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.frmBilgiBolumEkle.resources
+C:\ogrenciOtomasyonu\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.frmBilgiDersDuzenle.resources
+C:\ogrenciOtomasyonu\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.frmBilgiDersEkle.resources
+C:\ogrenciOtomasyonu\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.frmBilgiHarfSisDuzenle.resources
+C:\ogrenciOtomasyonu\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.frmBilgiHarfSisEkle.resources
+C:\ogrenciOtomasyonu\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.frmBilgiPersonelDuzenle.resources
+C:\ogrenciOtomasyonu\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.frmBilgiPersonelEkle.resources
+C:\ogrenciOtomasyonu\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.frmMain.resources
+C:\ogrenciOtomasyonu\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.frmBilgiGiris.resources
+C:\ogrenciOtomasyonu\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.frmBilgiIslem.resources
+C:\ogrenciOtomasyonu\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.frmBilgiOgrDuzenle.resources
+C:\ogrenciOtomasyonu\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.frmBilgiOgrEkle.resources
+C:\ogrenciOtomasyonu\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.Properties.Resources.resources
+C:\ogrenciOtomasyonu\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.csproj.GenerateResource.Cache
+C:\Dropbox\ogrenciOtomasyonu\bin\Debug\ogrenciOtomasyonu.exe.config
+C:\Dropbox\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.exe
+C:\Dropbox\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.pdb
+C:\Dropbox\ogrenciOtomasyonu\bin\Debug\SqlOtomasyon.mdf
+C:\Dropbox\ogrenciOtomasyonu\bin\Debug\SqlOtomasyon_log.ldf
+C:\Dropbox\ogrenciOtomasyonu\bin\Debug\ogrenciOtomasyonu.exe
+C:\Dropbox\ogrenciOtomasyonu\bin\Debug\ogrenciOtomasyonu.pdb
+C:\Dropbox\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.csprojResolveAssemblyReference.cache
+C:\Dropbox\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.frmBilgiAkaDuzenle.resources
+C:\Dropbox\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.frmBilgiAkaEkle.resources
+C:\Dropbox\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.frmBilgiAyarlar.resources
+C:\Dropbox\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.frmBilgiBolumDuzenle.resources
+C:\Dropbox\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.frmBilgiBolumEkle.resources
+C:\Dropbox\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.frmBilgiDersDuzenle.resources
+C:\Dropbox\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.frmBilgiDersEkle.resources
+C:\Dropbox\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.frmBilgiHarfSisDuzenle.resources
+C:\Dropbox\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.frmBilgiHarfSisEkle.resources
+C:\Dropbox\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.frmBilgiPersonelDuzenle.resources
+C:\Dropbox\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.frmBilgiPersonelEkle.resources
+C:\Dropbox\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.frmMain.resources
+C:\Dropbox\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.frmBilgiGiris.resources
+C:\Dropbox\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.frmBilgiIslem.resources
+C:\Dropbox\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.frmBilgiOgrDuzenle.resources
+C:\Dropbox\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.frmBilgiOgrEkle.resources
+C:\Dropbox\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.Properties.Resources.resources
+C:\Dropbox\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.csproj.GenerateResource.Cache
+C:\Dropbox\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.frmAkaSistem.resources
+C:\Dropbox\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.frmOgrSistem.resources
+C:\Dropbox\Ogrenci Otomasyonu Team Folder\ogrenciOtomasyonu\bin\Debug\ogrenciOtomasyonu.exe.config
+C:\Dropbox\Ogrenci Otomasyonu Team Folder\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.exe
+C:\Dropbox\Ogrenci Otomasyonu Team Folder\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.pdb
+C:\Dropbox\Ogrenci Otomasyonu Team Folder\ogrenciOtomasyonu\bin\Debug\SqlOtomasyon.mdf
+C:\Dropbox\Ogrenci Otomasyonu Team Folder\ogrenciOtomasyonu\bin\Debug\SqlOtomasyon_log.ldf
+C:\Dropbox\Ogrenci Otomasyonu Team Folder\ogrenciOtomasyonu\bin\Debug\ogrenciOtomasyonu.exe
+C:\Dropbox\Ogrenci Otomasyonu Team Folder\ogrenciOtomasyonu\bin\Debug\ogrenciOtomasyonu.pdb
+C:\Dropbox\Ogrenci Otomasyonu Team Folder\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.frmBilgiAkaDuzenle.resources
+C:\Dropbox\Ogrenci Otomasyonu Team Folder\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.frmBilgiAkaEkle.resources
+C:\Dropbox\Ogrenci Otomasyonu Team Folder\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.frmBilgiAyarlar.resources
+C:\Dropbox\Ogrenci Otomasyonu Team Folder\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.frmBilgiBolumDuzenle.resources
+C:\Dropbox\Ogrenci Otomasyonu Team Folder\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.frmBilgiBolumEkle.resources
+C:\Dropbox\Ogrenci Otomasyonu Team Folder\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.frmBilgiDersDuzenle.resources
+C:\Dropbox\Ogrenci Otomasyonu Team Folder\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.frmBilgiDersEkle.resources
+C:\Dropbox\Ogrenci Otomasyonu Team Folder\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.frmBilgiHarfSisDuzenle.resources
+C:\Dropbox\Ogrenci Otomasyonu Team Folder\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.frmBilgiHarfSisEkle.resources
+C:\Dropbox\Ogrenci Otomasyonu Team Folder\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.frmBilgiPersonelDuzenle.resources
+C:\Dropbox\Ogrenci Otomasyonu Team Folder\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.frmBilgiPersonelEkle.resources
+C:\Dropbox\Ogrenci Otomasyonu Team Folder\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.frmMain.resources
+C:\Dropbox\Ogrenci Otomasyonu Team Folder\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.frmBilgiGiris.resources
+C:\Dropbox\Ogrenci Otomasyonu Team Folder\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.frmBilgiIslem.resources
+C:\Dropbox\Ogrenci Otomasyonu Team Folder\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.frmBilgiOgrDuzenle.resources
+C:\Dropbox\Ogrenci Otomasyonu Team Folder\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.frmBilgiOgrEkle.resources
+C:\Dropbox\Ogrenci Otomasyonu Team Folder\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.frmOgrSistem.resources
+C:\Dropbox\Ogrenci Otomasyonu Team Folder\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.Properties.Resources.resources
+C:\Dropbox\Ogrenci Otomasyonu Team Folder\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.csproj.GenerateResource.Cache
+C:\Dropbox\Ogrenci Otomasyonu Team Folder\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.frmOgrSistemEkrani.resources
+C:\Users\ıncı\Dropbox\Ogrenci Otomasyonu Team Folder\ogrenciOtomasyonu\bin\Debug\ogrenciOtomasyonu.exe.config
+C:\Users\ıncı\Dropbox\Ogrenci Otomasyonu Team Folder\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.exe
+C:\Users\ıncı\Dropbox\Ogrenci Otomasyonu Team Folder\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.pdb
+C:\Users\ıncı\Dropbox\Ogrenci Otomasyonu Team Folder\ogrenciOtomasyonu\bin\Debug\SqlOtomasyon.mdf
+C:\Users\ıncı\Dropbox\Ogrenci Otomasyonu Team Folder\ogrenciOtomasyonu\bin\Debug\SqlOtomasyon_log.ldf
+C:\Users\ıncı\Dropbox\Ogrenci Otomasyonu Team Folder\ogrenciOtomasyonu\bin\Debug\ogrenciOtomasyonu.exe
+C:\Users\ıncı\Dropbox\Ogrenci Otomasyonu Team Folder\ogrenciOtomasyonu\bin\Debug\ogrenciOtomasyonu.pdb
+C:\Users\ıncı\Dropbox\Ogrenci Otomasyonu Team Folder\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\ıncı\Dropbox\Ogrenci Otomasyonu Team Folder\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.frmAkaSistem.resources
+C:\Users\ıncı\Dropbox\Ogrenci Otomasyonu Team Folder\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.frmBilgiAkaDuzenle.resources
+C:\Users\ıncı\Dropbox\Ogrenci Otomasyonu Team Folder\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.frmBilgiAkaEkle.resources
+C:\Users\ıncı\Dropbox\Ogrenci Otomasyonu Team Folder\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.frmBilgiAyarlar.resources
+C:\Users\ıncı\Dropbox\Ogrenci Otomasyonu Team Folder\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.frmBilgiBolumDuzenle.resources
+C:\Users\ıncı\Dropbox\Ogrenci Otomasyonu Team Folder\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.frmBilgiBolumEkle.resources
+C:\Users\ıncı\Dropbox\Ogrenci Otomasyonu Team Folder\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.frmBilgiDersDuzenle.resources
+C:\Users\ıncı\Dropbox\Ogrenci Otomasyonu Team Folder\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.frmBilgiDersEkle.resources
+C:\Users\ıncı\Dropbox\Ogrenci Otomasyonu Team Folder\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.frmBilgiHarfSisDuzenle.resources
+C:\Users\ıncı\Dropbox\Ogrenci Otomasyonu Team Folder\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.frmBilgiHarfSisEkle.resources
+C:\Users\ıncı\Dropbox\Ogrenci Otomasyonu Team Folder\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.frmBilgiPersonelDuzenle.resources
+C:\Users\ıncı\Dropbox\Ogrenci Otomasyonu Team Folder\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.frmBilgiPersonelEkle.resources
+C:\Users\ıncı\Dropbox\Ogrenci Otomasyonu Team Folder\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.frmMain.resources
+C:\Users\ıncı\Dropbox\Ogrenci Otomasyonu Team Folder\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.frmBilgiGiris.resources
+C:\Users\ıncı\Dropbox\Ogrenci Otomasyonu Team Folder\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.frmBilgiIslem.resources
+C:\Users\ıncı\Dropbox\Ogrenci Otomasyonu Team Folder\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.frmBilgiOgrDuzenle.resources
+C:\Users\ıncı\Dropbox\Ogrenci Otomasyonu Team Folder\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.frmBilgiOgrEkle.resources
+C:\Users\ıncı\Dropbox\Ogrenci Otomasyonu Team Folder\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.frmOgrSistem.resources
+C:\Users\ıncı\Dropbox\Ogrenci Otomasyonu Team Folder\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.frmOgrSistemEkrani.resources
+C:\Users\ıncı\Dropbox\Ogrenci Otomasyonu Team Folder\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.Properties.Resources.resources
+C:\Users\ıncı\Dropbox\Ogrenci Otomasyonu Team Folder\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.csproj.GenerateResource.Cache
+C:\Dropbox\Ogrenci Otomasyonu Team Folder\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.frmAkaMesajGonder.resources
+C:\Dropbox\Ogrenci Otomasyonu Team Folder\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.frmAkaSistemEkrani.resources
+C:\Dropbox\Ogrenci Otomasyonu Team Folder\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.frmAkaSistemGiris.resources
+C:\Dropbox\Ogrenci Otomasyonu Team Folder\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.frmAkaMesajGecmisi.resources
+C:\Dropbox\Ogrenci Otomasyonu Team Folder\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.frmOgrMesajGonder.resources
+C:\Dropbox\Ogrenci Otomasyonu Team Folder\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.frmOgrMesajGecmisi.resources
+C:\Dropbox\Ogrenci Otomasyonu Team Folder\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.frmAkaNotGirme.resources
+C:\Dropbox\Ogrenci Otomasyonu Team Folder\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.frmAkaNotVizeGir.resources
+C:\Dropbox\Ogrenci Otomasyonu Team Folder\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.frmAkaNotFinalGir.resources
+C:\Dropbox\Ogrenci Otomasyonu Team Folder\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.frmAkaDevamsizlikGirme.resources
+C:\Dropbox\Ogrenci Otomasyonu Team Folder\ogrenciOtomasyonu\bin\Debug\nunit.framework.dll
+C:\Dropbox\Ogrenci Otomasyonu Team Folder\ogrenciOtomasyonu\bin\Debug\nunit.framework.xml
+D:\Dropbox\Ogrenci Otomasyonu Team Folder\ogrenciOtomasyonu\bin\Debug\ogrenciOtomasyonu.exe.config
+D:\Dropbox\Ogrenci Otomasyonu Team Folder\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.exe
+D:\Dropbox\Ogrenci Otomasyonu Team Folder\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.pdb
+D:\Dropbox\Ogrenci Otomasyonu Team Folder\ogrenciOtomasyonu\bin\Debug\SqlOtomasyon.mdf
+D:\Dropbox\Ogrenci Otomasyonu Team Folder\ogrenciOtomasyonu\bin\Debug\SqlOtomasyon_log.ldf
+D:\Dropbox\Ogrenci Otomasyonu Team Folder\ogrenciOtomasyonu\bin\Debug\ogrenciOtomasyonu.exe
+D:\Dropbox\Ogrenci Otomasyonu Team Folder\ogrenciOtomasyonu\bin\Debug\ogrenciOtomasyonu.pdb
+D:\Dropbox\Ogrenci Otomasyonu Team Folder\ogrenciOtomasyonu\bin\Debug\nunit.framework.dll
+D:\Dropbox\Ogrenci Otomasyonu Team Folder\ogrenciOtomasyonu\bin\Debug\nunit.framework.xml
+D:\Dropbox\Ogrenci Otomasyonu Team Folder\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.csprojResolveAssemblyReference.cache
+D:\Dropbox\Ogrenci Otomasyonu Team Folder\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.frmAkaDevamsizlikGirme.resources
+D:\Dropbox\Ogrenci Otomasyonu Team Folder\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.frmAkaMesajGecmisi.resources
+D:\Dropbox\Ogrenci Otomasyonu Team Folder\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.frmAkaMesajGonder.resources
+D:\Dropbox\Ogrenci Otomasyonu Team Folder\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.frmAkaNotFinalGir.resources
+D:\Dropbox\Ogrenci Otomasyonu Team Folder\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.frmAkaNotGirme.resources
+D:\Dropbox\Ogrenci Otomasyonu Team Folder\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.frmAkaNotVizeGir.resources
+D:\Dropbox\Ogrenci Otomasyonu Team Folder\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.frmAkaSistemEkrani.resources
+D:\Dropbox\Ogrenci Otomasyonu Team Folder\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.frmAkaSistemGiris.resources
+D:\Dropbox\Ogrenci Otomasyonu Team Folder\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.frmBilgiAkaDuzenle.resources
+D:\Dropbox\Ogrenci Otomasyonu Team Folder\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.frmBilgiAkaEkle.resources
+D:\Dropbox\Ogrenci Otomasyonu Team Folder\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.frmBilgiAyarlar.resources
+D:\Dropbox\Ogrenci Otomasyonu Team Folder\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.frmBilgiBolumDuzenle.resources
+D:\Dropbox\Ogrenci Otomasyonu Team Folder\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.frmBilgiBolumEkle.resources
+D:\Dropbox\Ogrenci Otomasyonu Team Folder\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.frmBilgiDersDuzenle.resources
+D:\Dropbox\Ogrenci Otomasyonu Team Folder\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.frmBilgiDersEkle.resources
+D:\Dropbox\Ogrenci Otomasyonu Team Folder\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.frmBilgiHarfSisDuzenle.resources
+D:\Dropbox\Ogrenci Otomasyonu Team Folder\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.frmBilgiHarfSisEkle.resources
+D:\Dropbox\Ogrenci Otomasyonu Team Folder\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.frmBilgiPersonelDuzenle.resources
+D:\Dropbox\Ogrenci Otomasyonu Team Folder\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.frmBilgiPersonelEkle.resources
+D:\Dropbox\Ogrenci Otomasyonu Team Folder\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.frmMain.resources
+D:\Dropbox\Ogrenci Otomasyonu Team Folder\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.frmBilgiGiris.resources
+D:\Dropbox\Ogrenci Otomasyonu Team Folder\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.frmBilgiIslem.resources
+D:\Dropbox\Ogrenci Otomasyonu Team Folder\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.frmBilgiOgrDuzenle.resources
+D:\Dropbox\Ogrenci Otomasyonu Team Folder\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.frmBilgiOgrEkle.resources
+D:\Dropbox\Ogrenci Otomasyonu Team Folder\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.frmOgrMesajGecmisi.resources
+D:\Dropbox\Ogrenci Otomasyonu Team Folder\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.frmOgrMesajGonder.resources
+D:\Dropbox\Ogrenci Otomasyonu Team Folder\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.frmOgrSistem.resources
+D:\Dropbox\Ogrenci Otomasyonu Team Folder\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.frmOgrSistemEkrani.resources
+D:\Dropbox\Ogrenci Otomasyonu Team Folder\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.Properties.Resources.resources
+D:\Dropbox\Ogrenci Otomasyonu Team Folder\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.csproj.GenerateResource.Cache
